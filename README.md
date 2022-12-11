@@ -1,6 +1,6 @@
 ﻿# shape-grammar-unity
 ## Description
-Generating buildings using Unity.
+Generating buildings using Shape Grammar and Unity.
 
 One example provided in scene GenerationTest.
 
