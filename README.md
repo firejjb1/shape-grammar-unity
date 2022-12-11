@@ -4,6 +4,8 @@ Generating buildings using Shape Grammar and Unity.
 
 One example provided in scene GenerationTest.
 
+https://www.youtube.com/watch?v=8ys-KHqLSeY&feature=youtu.be
+
 ## References
 [1] Muller, P., Wonka, P., Haegler, S., Ulmer, A., & Gool, L. V. (2006). Procedural Modeling of Buildings. Repéré à URLhttp://peterwonka.net/Publications/pdfs/2006.SG.Mueller.ProceduralModelingOfBuildings.final.pdf
 
