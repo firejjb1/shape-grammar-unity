@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0be86e08ac8d1c41916a0e0d4200ec5, type: 3}
+  m_Name: Side Section Expand
+  m_EditorClassIdentifier: 
+  PredecessorShape: {fileID: 11400000, guid: 5ef29d1c96ea08244b5a0b64a9a8476c, type: 2}
+  operations:
+  - {fileID: 11400000, guid: 182653635bf51ad47b94d2808f2c0ac9, type: 2}
+  - {fileID: 11400000, guid: a739031c1de2b3f4380ca394fd54ecbb, type: 2}
+  - {fileID: 11400000, guid: a739031c1de2b3f4380ca394fd54ecbb, type: 2}
+  - {fileID: 11400000, guid: a739031c1de2b3f4380ca394fd54ecbb, type: 2}
+  - {fileID: 11400000, guid: a739031c1de2b3f4380ca394fd54ecbb, type: 2}
+  - {fileID: 11400000, guid: a739031c1de2b3f4380ca394fd54ecbb, type: 2}
+  - {fileID: 11400000, guid: a739031c1de2b3f4380ca394fd54ecbb, type: 2}
+  - {fileID: 11400000, guid: a739031c1de2b3f4380ca394fd54ecbb, type: 2}
+  - {fileID: 11400000, guid: a739031c1de2b3f4380ca394fd54ecbb, type: 2}
+  - {fileID: 11400000, guid: a739031c1de2b3f4380ca394fd54ecbb, type: 2}
+  - {fileID: 11400000, guid: a739031c1de2b3f4380ca394fd54ecbb, type: 2}
+  - {fileID: 11400000, guid: a739031c1de2b3f4380ca394fd54ecbb, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0be86e08ac8d1c41916a0e0d4200ec5, type: 3}
+  m_Name: WingToXStoriesRule
+  m_EditorClassIdentifier: 
+  PredecessorShape: {fileID: 11400000, guid: 9c542d0455ff04142abf39f4f61c86cd, type: 2}
+  operations:
+  - {fileID: 11400000, guid: 96eb87b1a5c81dc448fc1c65e57fe571, type: 2}
+  - {fileID: 11400000, guid: 081ac79ab39e33846a23e030f1042904, type: 2}
+  - {fileID: 11400000, guid: b7c6ad9941a107f48bc78ea434f35662, type: 2}

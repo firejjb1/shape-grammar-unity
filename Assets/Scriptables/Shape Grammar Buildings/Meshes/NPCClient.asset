@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e692997ea70d827498aac5d9e09514a3, type: 3}
+  m_Name: NPCClient
+  m_EditorClassIdentifier: 
+  Symbol: 16
+  meshObjects:
+  - {fileID: 1958972573760971233, guid: 31c6903632ecf5b4b8168b4caa59c1f7, type: 3}
+  - {fileID: 153506, guid: 5e488cfd825ce044395037d93a9d8eb6, type: 3}
+  - {fileID: 128674, guid: 471247d5cf89b2c46bcde0f08524197e, type: 3}
+  - {fileID: 184310, guid: 236e70cfb8ad0fc448c79a2155a5d3c2, type: 3}
+  - {fileID: 107314, guid: 841e8e4f1a54c754396b7559d1cc6fad, type: 3}
+  - {fileID: 166044, guid: adad89669382b0743a2c2f162c9601b0, type: 3}
+  - {fileID: 153682, guid: 48b470c6a762f60438c631f219257520, type: 3}
+  - {fileID: 183828, guid: 5f6cbb0f4dd572e47ab1ee6c2a3a36d1, type: 3}
+  - {fileID: 191860, guid: 498a13929c1393e44be1126bcadc448b, type: 3}

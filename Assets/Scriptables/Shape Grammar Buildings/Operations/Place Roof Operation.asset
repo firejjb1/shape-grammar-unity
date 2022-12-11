@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8214f485361de024ca31ea4b3eabfedb, type: 3}
+  m_Name: Place Roof Operation
+  m_EditorClassIdentifier: 
+  predecessor: {fileID: 0}
+  ShapeToPlace: {fileID: 11400000, guid: 3f1a851a7fa1f1742a38cc77e0876ff4, type: 2}
